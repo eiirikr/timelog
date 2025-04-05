@@ -140,17 +140,17 @@ This project was created using the following technologies.
 </center>
 
 ## Author
-- Portfolio: [berthutapea](https://berthutapea.vercel.app/)
-- Github: [berthutapea](https://github.com/berthutapea)
-- Sponsor: [berthutapea](https://saweria.co/berthutapea)
-- Linkedin: [gilberthutapea](https://www.linkedin.com/in/gilberthutapea/)
-- Email: [berthutapea@gmail.com](mailto:berthutapea@gmail.com)
+- Portfolio: [eiirikr]()
+- Github: [eiirikr](https://github.com/eiirikr)
+- Sponsor: [jeric]()
+- Linkedin: [jeric](https://www.linkedin.com/in/jericjavier/)
+- Email: [javierjericm@gmail.com](mailto:javierjeric@gmail.com)
 
 ## License
 
 MIT License
 
-Copyright (c) 2022 Gilbert Hutapea
+Copyright (c) 2025 Jeric Javier
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
